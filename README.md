@@ -80,8 +80,8 @@ Passionate about integrating AI tools into real production workflows.
 🎓 **B.Sc. Computer Science** — *Magna Cum Laude (GPA 3.8/4.0)* · UASD 
 📜 Scrum Framework (Agile) · 2026  
 📜 Flutter: App Delivery with Node.js, MySQL & Payment Gateway · Udemy  
-📜 English Immersion Program · 2024  
-📜 Introduction to Data Science · 2026
+📜 English Immersion Program
+📜 Introduction to Data Science 
 
 ---
 
